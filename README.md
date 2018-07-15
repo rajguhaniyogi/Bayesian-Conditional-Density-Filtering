@@ -3,6 +3,9 @@ Conditional Density Filtering (C-DF) algorithm is devised for efficient online B
 The codes are jointly developed by the joint first authors.
 
 lm_code_CDF.R: C-DF code for the ordinary linear regression.
+
 dlm_code_CDF.R: C-DF code for the dynamic linear model.
+
 anova_code_CDF.R: C-DF code the anova model.
+
 probit_code_CDF.R: C-DF code for the high dimensional probit regression model.
